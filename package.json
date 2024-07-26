@@ -1,1 +1,1 @@
-{ "dependencies": { "tsdoc": "^0.0.4" } }
+{"dependencies":{"tsdoc":"^0.0.4"},"devDependencies":{"typedoc":"^0.26.5"}}
