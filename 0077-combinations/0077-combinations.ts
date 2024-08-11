@@ -15,8 +15,7 @@ var combine1 = function(nums, permutation, results, k) {
     for (var i = 0; i < nums.length; i++) {
         let currentNumber = nums[i];
         // let previousNumbers = nums.slice(0, i);
-        let nextNumbers = nums.slice(i+1)
-        combine1([...nextNumbers], [...permutation, currentNumber], results, k)
+        combine1(nums.slice(i+1), [...permutation, currentNumber], results, k)
     }
     
 };
