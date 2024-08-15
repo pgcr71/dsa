@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/pgcr71/dsa/tree/master/0076-minimum-window-substring) |
+| [0141-linked-list-cycle](https://github.com/pgcr71/dsa/tree/master/0141-linked-list-cycle) |
 | [0208-implement-trie-prefix-tree](https://github.com/pgcr71/dsa/tree/master/0208-implement-trie-prefix-tree) |
 ## String
 |  |
@@ -35,9 +36,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/pgcr71/dsa/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/pgcr71/dsa/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/pgcr71/dsa/tree/master/0206-reverse-linked-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/pgcr71/dsa/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
