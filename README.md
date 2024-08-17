@@ -53,11 +53,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/pgcr71/dsa/tree/master/0173-binary-search-tree-iterator) |
 | [0222-count-complete-tree-nodes](https://github.com/pgcr71/dsa/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/pgcr71/dsa/tree/master/0226-invert-binary-tree) |
+| [0687-longest-univalue-path](https://github.com/pgcr71/dsa/tree/master/0687-longest-univalue-path) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/pgcr71/dsa/tree/master/1450-delete-leaves-with-a-given-value) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/pgcr71/dsa/tree/master/0226-invert-binary-tree) |
+| [0687-longest-univalue-path](https://github.com/pgcr71/dsa/tree/master/0687-longest-univalue-path) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/pgcr71/dsa/tree/master/1450-delete-leaves-with-a-given-value) |
 ## Breadth-First Search
 |  |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/pgcr71/dsa/tree/master/0173-binary-search-tree-iterator) |
 | [0222-count-complete-tree-nodes](https://github.com/pgcr71/dsa/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/pgcr71/dsa/tree/master/0226-invert-binary-tree) |
+| [0687-longest-univalue-path](https://github.com/pgcr71/dsa/tree/master/0687-longest-univalue-path) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/pgcr71/dsa/tree/master/1450-delete-leaves-with-a-given-value) |
 ## Binary Search
 |  |
