@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/pgcr71/dsa/tree/master/0173-binary-search-tree-iterator) |
 | [0208-implement-trie-prefix-tree](https://github.com/pgcr71/dsa/tree/master/0208-implement-trie-prefix-tree) |
 ## Trie
 |  |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/pgcr71/dsa/tree/master/0173-binary-search-tree-iterator) |
 | [0222-count-complete-tree-nodes](https://github.com/pgcr71/dsa/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/pgcr71/dsa/tree/master/0226-invert-binary-tree) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/pgcr71/dsa/tree/master/1450-delete-leaves-with-a-given-value) |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/pgcr71/dsa/tree/master/0173-binary-search-tree-iterator) |
 | [0222-count-complete-tree-nodes](https://github.com/pgcr71/dsa/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/pgcr71/dsa/tree/master/0226-invert-binary-tree) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/pgcr71/dsa/tree/master/1450-delete-leaves-with-a-given-value) |
@@ -75,4 +78,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/pgcr71/dsa/tree/master/0222-count-complete-tree-nodes) |
+## Stack
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/pgcr71/dsa/tree/master/0173-binary-search-tree-iterator) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/pgcr71/dsa/tree/master/0173-binary-search-tree-iterator) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/pgcr71/dsa/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
