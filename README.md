@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/pgcr71/dsa/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/pgcr71/dsa/tree/master/0226-invert-binary-tree) |
 ## Depth-First Search
 |  |
@@ -61,5 +62,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/pgcr71/dsa/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/pgcr71/dsa/tree/master/0226-invert-binary-tree) |
+## Binary Search
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/pgcr71/dsa/tree/master/0222-count-complete-tree-nodes) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/pgcr71/dsa/tree/master/0222-count-complete-tree-nodes) |
 <!---LeetCode Topics End-->
