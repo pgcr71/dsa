@@ -14,28 +14,29 @@
 
 
 var countNodes = function (root) {
-    if (!root) {
+    if(!root) {
         return 0
     }
-    if (!root.left && !root.right) {
+
+    if(!root.left && !root.right) {
         return 1
     }
-    let obj = { count: 1 };
-
-    countNodesHelper(root, obj)
-    return obj.count;
+  return countNodesHelper(root)
 };
 
-var countNodesHelper = function (root, obj) {
-    if (!root) {
-        return 0;
+var countNodesHelper = function (root) {
+    let arr = [root];
+    let count = 0;
+    while(arr.length !== 0) {
+        let curr = arr.pop();
+        count++;
+        if (curr?.left) {
+            arr.push(curr.left)
+        }
+        if (curr?.right) {
+            arr.push(curr.right)
+        }
+
     }
-    if (root.left) {
-        obj.count++
-    }
-    if (root.right) {
-        obj.count++
-    }
-    countNodesHelper(root.left, obj)
-    countNodesHelper(root.right, obj);
+    return count;
 }
