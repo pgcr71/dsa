@@ -4,12 +4,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/pgcr71/dsa/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/pgcr71/dsa/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/pgcr71/dsa/tree/master/0141-linked-list-cycle) |
 | [0208-implement-trie-prefix-tree](https://github.com/pgcr71/dsa/tree/master/0208-implement-trie-prefix-tree) |
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/pgcr71/dsa/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/pgcr71/dsa/tree/master/0076-minimum-window-substring) |
 | [0208-implement-trie-prefix-tree](https://github.com/pgcr71/dsa/tree/master/0208-implement-trie-prefix-tree) |
 ## Design
@@ -34,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/pgcr71/dsa/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/pgcr71/dsa/tree/master/0076-minimum-window-substring) |
 ## Linked List
 |  |
