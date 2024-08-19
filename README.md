@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/pgcr71/dsa/tree/master/0046-permutations) |
+| [0322-coin-change](https://github.com/pgcr71/dsa/tree/master/0322-coin-change) |
 ## Backtracking
 |  |
 | ------- |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/pgcr71/dsa/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/pgcr71/dsa/tree/master/0226-invert-binary-tree) |
+| [0322-coin-change](https://github.com/pgcr71/dsa/tree/master/0322-coin-change) |
 ## Binary Tree
 |  |
 | ------- |
@@ -105,4 +107,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/pgcr71/dsa/tree/master/0173-binary-search-tree-iterator) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/pgcr71/dsa/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
