@@ -24,17 +24,15 @@ var decodeString = function (s) {
             let lastPoped = stack.pop();
             let times = '';
             while(!Number.isNaN(Number(lastPoped))) {
-                times = lastPoped?`${lastPoped}${times}`:times;
+                times = `${lastPoped}${times}`;
                 lastPoped = stack.pop();
             }
-            if (Number.isNaN(Number(lastPoped))  && (lastPoped!== undefined)) {
-                stack.push(lastPoped);
-            }
-            let str2 = ''
+            stack.push(lastPoped);
+            let repeatedStr = ''
             for (let i = 0; i < (times || 1); i++) {
-                str2 = `${str2}${str}`;
+                repeatedStr = `${repeatedStr}${str}`;
             }
-            stack.push(str2);
+            stack.push(repeatedStr);
         }
     }
     return stack.join('')
