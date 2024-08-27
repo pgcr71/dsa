@@ -27,11 +27,9 @@ var decodeString = function (s) {
                 times = lastPoped?`${lastPoped}${times}`:times;
                 lastPoped = stack.pop();
             }
-            console.log(times)
             if (Number.isNaN(Number(lastPoped))  && (lastPoped!== undefined)) {
                 stack.push(lastPoped);
             }
-
             let str2 = ''
             for (let i = 0; i < (times || 1); i++) {
                 str2 = `${str2}${str}`;
