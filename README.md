@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/pgcr71/dsa/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/pgcr71/dsa/tree/master/0206-reverse-linked-list) |
 | [0394-decode-string](https://github.com/pgcr71/dsa/tree/master/0394-decode-string) |
+| [1013-fibonacci-number](https://github.com/pgcr71/dsa/tree/master/1013-fibonacci-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -117,4 +118,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/pgcr71/dsa/tree/master/0322-coin-change) |
+| [1013-fibonacci-number](https://github.com/pgcr71/dsa/tree/master/1013-fibonacci-number) |
+## Math
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/pgcr71/dsa/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/pgcr71/dsa/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
