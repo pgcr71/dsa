@@ -21,7 +21,9 @@ var fib = function (n) {
     mem[n - 1] = prev;
     let preprev = mem[n - 2] ? mem[n - 2] : fib(n - 2);
     mem[n - 2] = preprev;
-    return prev + preprev;
+    let curr = prev + preprev;
+    mem[n] = curr;
+    return curr
 };
 
 
