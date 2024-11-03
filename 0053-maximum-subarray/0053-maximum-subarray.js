@@ -5,18 +5,31 @@
 
 
 var maxSubArray = function(nums) {
-    let res = nums[0];
+    let max = nums[0];
     let sum = 0;
-
-    for (let n of nums) {
+    let startIndex = 0;
+    let endIndex = 0;
+    for (let i in nums) {
+        let n = nums[i];
+        let redoStart = false;
         if(sum < 0) {
-            sum = n
+            sum = n;
+            redoStart = true;
         } else {
             sum = sum + n;
         }
-        
-        res = Math.max(sum, res)
+
+        if(sum >= max) {
+            max = sum;
+            if(redoStart) {
+                startIndex = i;
+                endIndex = i;
+            } else {
+                endIndex = i;
+            }
+           
+        } 
     }
-    
-    return res;    
+    console.log(startIndex, endIndex)
+    return max;    
 };
