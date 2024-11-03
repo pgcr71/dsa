@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/pgcr71/dsa/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/pgcr71/dsa/tree/master/0141-linked-list-cycle) |
 | [0208-implement-trie-prefix-tree](https://github.com/pgcr71/dsa/tree/master/0208-implement-trie-prefix-tree) |
+| [0264-ugly-number-ii](https://github.com/pgcr71/dsa/tree/master/0264-ugly-number-ii) |
 ## String
 |  |
 | ------- |
@@ -119,14 +120,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/pgcr71/dsa/tree/master/0264-ugly-number-ii) |
 | [0322-coin-change](https://github.com/pgcr71/dsa/tree/master/0322-coin-change) |
 | [1013-fibonacci-number](https://github.com/pgcr71/dsa/tree/master/1013-fibonacci-number) |
 ## Math
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/pgcr71/dsa/tree/master/0264-ugly-number-ii) |
 | [1013-fibonacci-number](https://github.com/pgcr71/dsa/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/pgcr71/dsa/tree/master/1013-fibonacci-number) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0264-ugly-number-ii](https://github.com/pgcr71/dsa/tree/master/0264-ugly-number-ii) |
 <!---LeetCode Topics End-->
