@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/pgcr71/dsa/tree/master/0046-permutations) |
+| [0053-maximum-subarray](https://github.com/pgcr71/dsa/tree/master/0053-maximum-subarray) |
 | [0322-coin-change](https://github.com/pgcr71/dsa/tree/master/0322-coin-change) |
 ## Backtracking
 |  |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/pgcr71/dsa/tree/master/0053-maximum-subarray) |
 | [0264-ugly-number-ii](https://github.com/pgcr71/dsa/tree/master/0264-ugly-number-ii) |
 | [0322-coin-change](https://github.com/pgcr71/dsa/tree/master/0322-coin-change) |
 | [1013-fibonacci-number](https://github.com/pgcr71/dsa/tree/master/1013-fibonacci-number) |
@@ -136,4 +138,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/pgcr71/dsa/tree/master/0264-ugly-number-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/pgcr71/dsa/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
