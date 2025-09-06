@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/pgcr71/dsa/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/pgcr71/dsa/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/pgcr71/dsa/tree/master/0014-longest-common-prefix) |
 | [0076-minimum-window-substring](https://github.com/pgcr71/dsa/tree/master/0076-minimum-window-substring) |
 | [0208-implement-trie-prefix-tree](https://github.com/pgcr71/dsa/tree/master/0208-implement-trie-prefix-tree) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/pgcr71/dsa/tree/master/0005-longest-palindromic-substring) |
 | [0141-linked-list-cycle](https://github.com/pgcr71/dsa/tree/master/0141-linked-list-cycle) |
 ## Tree
 |  |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/pgcr71/dsa/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/pgcr71/dsa/tree/master/0053-maximum-subarray) |
 | [0264-ugly-number-ii](https://github.com/pgcr71/dsa/tree/master/0264-ugly-number-ii) |
 | [0322-coin-change](https://github.com/pgcr71/dsa/tree/master/0322-coin-change) |
