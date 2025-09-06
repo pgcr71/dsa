@@ -22,12 +22,9 @@ var longestPalindrome = function (s) {
     for (let i = s.length - 1; i >= 0; i--) {
         for (let j = i + 2; j < s.length; j++) {
             dp[i][j] = dp[i + 1][j - 1] && s[i] === s[j] ? 1 : 0;
-            if (dp[i][j]) {
-                if (maxLength < (j - i + 1)) {
-                    maxLength = j + 1 - i
-                    lps = i
-                }
-
+            if (dp[i][j] && (maxLength < (j - i + 1))) {
+                maxLength = j + 1 - i;
+                lps = i;
             }
         }
     }
