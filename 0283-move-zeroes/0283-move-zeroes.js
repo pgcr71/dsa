@@ -10,5 +10,4 @@ var moveZeroes = function (nums) {
             zeroAt++;
         }
     }
-    return nums;
 };
