@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/pgcr71/dsa/tree/master/0011-container-with-most-water) |
 | [0046-permutations](https://github.com/pgcr71/dsa/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/pgcr71/dsa/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/pgcr71/dsa/tree/master/0169-majority-element) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/pgcr71/dsa/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/pgcr71/dsa/tree/master/0011-container-with-most-water) |
 | [0141-linked-list-cycle](https://github.com/pgcr71/dsa/tree/master/0141-linked-list-cycle) |
 | [0283-move-zeroes](https://github.com/pgcr71/dsa/tree/master/0283-move-zeroes) |
 ## Tree
@@ -158,4 +160,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/pgcr71/dsa/tree/master/0169-majority-element) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/pgcr71/dsa/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
