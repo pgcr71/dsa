@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/pgcr71/dsa/tree/master/0011-container-with-most-water) |
 | [0046-permutations](https://github.com/pgcr71/dsa/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/pgcr71/dsa/tree/master/0053-maximum-subarray) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/pgcr71/dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/pgcr71/dsa/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/pgcr71/dsa/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/pgcr71/dsa/tree/master/0322-coin-change) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/pgcr71/dsa/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/pgcr71/dsa/tree/master/0011-container-with-most-water) |
 | [0141-linked-list-cycle](https://github.com/pgcr71/dsa/tree/master/0141-linked-list-cycle) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/pgcr71/dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/pgcr71/dsa/tree/master/0283-move-zeroes) |
 ## Tree
 |  |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/pgcr71/dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0222-count-complete-tree-nodes](https://github.com/pgcr71/dsa/tree/master/0222-count-complete-tree-nodes) |
 ## Bit Manipulation
 |  |
