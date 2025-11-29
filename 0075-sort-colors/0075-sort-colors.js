@@ -3,7 +3,7 @@
  * @return {void} Do not return anything, modify nums in-place instead.
  */
 var sortColors = function(nums) {
-    let colors = [0,1,2];
+    let colors = [0,1,2,3,4,5];
     let startIndex = nums.length - 1;
     let count = 0;
     for(let color of colors) {
@@ -12,7 +12,7 @@ var sortColors = function(nums) {
 
     function moveZeroes(color) {
         let nextAt = nums.length - 1;
-        let sum = count
+        let sum = count;
         for(let i=nums.length-1; i>=count;i--) {
             if(nums[i] === color) {
                 sum++;
