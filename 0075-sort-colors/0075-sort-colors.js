@@ -8,7 +8,6 @@ var sortColors = function(nums) {
     let count = 0;
     for(let color of colors) {
       moveZeroes(color);
-      console.log(nums, count);
     }
 
     function moveZeroes(color) {
